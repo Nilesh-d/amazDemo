@@ -1,0 +1,62 @@
+[
+    {
+    "id":1,
+    "name":"Femina Gifts",
+    "address":"Jawahar Market, Power House, Bhilai - 490001",
+    "color":"orange",
+    "Img":"https://pr1.nicelocal.in/U04iFMm6_52_n84EG44NhQ/587x440,q85/4px-BW84_n2aGZJPv2Q_uysuQlRKXWAtkzmuAfqDQISctG8tUVwNus_yHjDb2grOlKLsM6TNUuZyvQdJBki6yYcjOFB1USpU6wm575Hg6A6FZUKbUp9BRY4L3M76JBR9IauCinFP3nrwBbWEwN7x1dUd4y2Ch-KRoGvG-YEG0nv1FfErQp2abKpcr4RLGTwxHLanmPd1G5GfhPbBr7G6og"
+    },
+    {
+    "id":2,
+    "name":"Balaji General Stores",
+    "address":"Shop No- 66, Sector - 5, Bhilai - 490006",
+    "color":"#223943",
+    "Img":"https://content3.jdmagicbox.com/comp/raipur-chhattisgarh/dc/9999px771.x771.100617175945.y9c4dc/catalogue/red-teddy-raipur-chhattisgarh-0pjh454fq8.jpg?clr=412525"
+    },
+    {
+    "id":3,
+    "name":"Anmol Super Bazar",
+    "address":"Infront Of Chpl, Junwani Road, Smriti Nagar, Bhilai - 490020",
+    "color":"purple",
+    "Img":"https://content3.jdmagicbox.com/comp/raipur-chhattisgarh/t8/9999px771.x771.170721133508.m7t8/catalogue/stop-n-shop-pandri-raipur-chhattisgarh-fashion-accessory-dealers-14extgr6nf.jpg"
+    },
+    {
+    "id":4,
+    "name":"Arihant General Stores",
+    "address":"Jawahar Market, Power House, Bhilai - 490001",
+    "color":"grey",
+    "Img":"https://content.jdmagicbox.com/comp/raipur-chhattisgarh/m1/9999px771.x771.180516144706.g4m1/catalogue/cocina-and-casa-pandri-raipur-chhattisgarh-gift-shops-byzyscadr0.jpg"
+    },
+    {
+    "id":5,
+    "name":"Ujala Agencies",
+    "address":"Supela Chowk, Bhilai, Main Road, Bhilai - 490001",
+    "color":"tomato",
+    "Img":"https://images.jdmagicbox.com/comp/raipur-chhattisgarh/w1/9999px771.x771.150116160237.k4w1/catalogue/creamy-n-spicy-raipur-ho-raipur-chhattisgarh-24-hours-cake-shops-1u5pwcml87.jpg"
+    },
+    {
+    "id":6,
+    "name":"New Bagdi Transport",
+    "address":"Near Sapna Talkies, Shastri Market, Power House, Bhilai - 490001",
+    "color":"yellow",
+    "Img":"https://lh6.googleusercontent.com/-tYq79a6hk_g/VkWx6M4HtzI/AAAAAAAAABM/yzUuHtlltaIwOvyGhjkJHaj9y-3vNawSQCJkC/photo.jpg"
+    },
+    {
+    "id":7,
+    "name":"Rathi General Stores",
+    "address":"New Khurshipar, Bhilai - 490001",
+    "Img":"https://cdn0.weddingwire.in/vendor/9179/3_2/960/jpg/ferns-n-petals-florist-gift-shop3_15_269179-157260021241255.jpeg"
+    },
+    {
+    "id":8,
+    "name":" Housing Board, Ghasidas Nagar, Bhilai - 490026",
+    "address":"Sarasvati Nagar",
+    "Img":"https://lh6.googleusercontent.com/proxy/AlgoRf75jn3h4Pl8NONED1zd4PFKGu4z1XmBoB7CoVVQmRO7u2hmW7IncKCCkNJgLrME1YQK8kUdLOgInDYAWNmkkpD8c3-WNttOnn-DZbKEpld_pH9F3nOPTMQoZubFVu9WOUUckkFXGc1h7MrasFsusQ"
+    },
+    {
+    "id":9,
+    "name":"Tirumala Product General Store",
+    "address":"Zone-3, Ganesh Mandir Road, Khurshipar, Bhilai - 490011",
+    "Img":"https://threebestrated.in/images/ShoppersStop-Raipur-CG.jpeg"
+    }
+]

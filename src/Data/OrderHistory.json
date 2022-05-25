@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "productName":"Spigeon back cover for Apple iPhone 7",
+        "deliveryDate":"Fri, Mar 4th' 22",
+        "rating":5
+    },
+    {
+        "id":2,
+        "productName":"Apple iPhone 7 ",
+        "deliveryDate":"Sat, Mar 5th' 22",
+        "rating":5
+    }
+]

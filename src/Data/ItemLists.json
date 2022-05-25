@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "productName":"Running Shoes for Men",
+        "Price":599,
+        "Description":"Random short Description",
+        "Rating":4.5,
+        "Img":"https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"12",
+        "color":"#223943",
+        "OrgPrice":1999
+    },
+    {
+        "id":2,
+        "productName":"Full sleeve Solid Men Sweatshirt",
+        "Price":599,
+        "Description":"Random short Description",
+        "Rating":4.5,
+        "Img":"https://images.pexels.com/photos/5384423/pexels-photo-5384423.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"20",
+        "color":"orange",
+        "OrgPrice":2999
+    },
+    {
+        "id":3,
+        "productName":"ARMADO 5702 combo",
+        "Price":399,
+        "Description":"Random short Description",
+        "Rating":4.5,
+        "Img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"40",
+        "color":"tomato",
+        "OrgPrice":1799
+    },
+    {
+        "id":4,
+        "productName":"Brass Kada",
+        "Price":83,
+        "Description":"Random short Description",
+        "Rating":3.5,
+        "Img":"https://images.pexels.com/photos/234798/pexels-photo-234798.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"9",
+        "color":"purple",
+        "OrgPrice":1599
+    },
+    {
+        "id":5,
+        "productName":"Jeans",
+        "Price":799,
+        "Description":"Random short Description",
+        "Rating":2,
+        "Img":"https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"7",
+        "color":"orange",
+        "OrgPrice":1200
+    },
+    {
+        "id":6,
+        "productName":"Jeans",
+        "Price":699,
+        "Description":"Random short Description",
+        "Rating":3.5,
+        "Img":"https://images.pexels.com/photos/65676/nanjing-studio-jeans-65676.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"30",
+        "color":"purple",
+        "OrgPrice":1500
+    },
+    {
+        "id":7,
+        "productName":"Skirt",
+        "Price":179,
+        "Description":"Random short Description",
+        "Rating":2,
+        "Img":"https://images.pexels.com/photos/1427984/pexels-photo-1427984.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"12",
+        "OrgPrice":300
+    },
+    {
+        "id":8,
+        "productName":"Jacket",
+        "Price":200,
+        "Description":"Random short Description",
+        "Rating":3.5,
+        "Img":"https://images.pexels.com/photos/1124468/pexels-photo-1124468.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"12",
+        "color":"purple",
+        "OrgPrice":500
+    },
+    {
+        "id":9,
+        "productName":"Tie",
+        "Price":319,
+        "Description":"Random short Description",
+        "Rating":2,
+        "Img":"https://images.pexels.com/photos/45055/pexels-photo-45055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "Discount":"12",
+        "color":"tomato",
+        "OrgPrice":500
+    }
+]
